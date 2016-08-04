@@ -1,0 +1,26 @@
+_repo: Washington-Irving_3101
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Warner, Charles Dudley
+    birthdate: 1829
+    deathdate: 1900
+    gutenberg_agent_id: '993'
+    url: http://www.gutenberg.org/2009/agents/993
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dudley_Warner
+description: ''
+gutenberg_issued: '2004-10-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3101'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Authors, American -- 19th century -- Biography'
+- !lcsh 'Irving, Washington, 1783-1859'
+- GITenberg
+title: Washington Irving
+url: http://www.gutenberg.org/ebooks/3101
